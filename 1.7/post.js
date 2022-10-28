@@ -1,0 +1,8 @@
+function createPost(){
+    ///...
+}
+
+
+function commentOnPost(){
+    ///...
+}
